@@ -1,4 +1,5 @@
 ﻿Console.WriteLine("Enter number: ");
+
 int num = Convert.ToInt32(Console.ReadLine());
 string result = "";
 int a = num % 10;
