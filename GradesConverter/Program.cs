@@ -12,6 +12,7 @@ else if (userInput > 19 && userInput <= 39)
 }
 else if (userInput > 39 && userInput <= 59)
 {
+
     result = "D";
 }
 else if (userInput > 59 && userInput <= 74)
